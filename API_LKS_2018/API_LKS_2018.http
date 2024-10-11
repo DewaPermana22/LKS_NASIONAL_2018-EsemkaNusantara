@@ -1,6 +1,0 @@
-@API_LKS_2018_HostAddress = http://localhost:5264
-
-GET {{API_LKS_2018_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
