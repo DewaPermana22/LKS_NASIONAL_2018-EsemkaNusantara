@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_LKS_2018", "API_LKS_2018.csproj", "{7E201A64-2984-46F8-BB75-40632F1542A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E201A64-2984-46F8-BB75-40632F1542A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E201A64-2984-46F8-BB75-40632F1542A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E201A64-2984-46F8-BB75-40632F1542A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E201A64-2984-46F8-BB75-40632F1542A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53AD153B-61EF-444B-9DCC-44FFE411E543}
+	EndGlobalSection
+EndGlobal
